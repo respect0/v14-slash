@@ -1,8 +1,6 @@
 # v13-slash
 
-V13 slash alt yapı.
-
-Aç kullan knk..
+V13 slash alt yapı. Ne anlatim ki daha?
 
 **Alt yapı bana ait değil, düzenleyip paylaştım.**
 
